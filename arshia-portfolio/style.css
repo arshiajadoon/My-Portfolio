@@ -90,6 +90,7 @@
   .thumb4{background:linear-gradient(135deg,#f7b733,#fc4a1a);}
   .thumb5{background:linear-gradient(135deg,#e8384f,#5c1a22);}
   .thumb6{background:linear-gradient(135deg,#00b09b,#96c93d);}
+  .thumb7{background:linear-gradient(135deg,#0f2027,#2c5364);}
   .proj-body{padding:20px 22px 24px;}
   .proj-body .cat{color:var(--ink-dim);font-size:0.78rem;margin-bottom:6px;}
   .proj-body h3{font-size:1.05rem;margin-bottom:10px;}
